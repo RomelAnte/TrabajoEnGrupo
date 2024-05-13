@@ -2,3 +2,12 @@
     padding: 0;
     margin: auto;
 }
+ul{
+    display: flex;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
