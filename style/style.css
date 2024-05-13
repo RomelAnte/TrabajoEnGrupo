@@ -3,11 +3,11 @@
     margin: auto;
 }
 ul{
-    display: flex;
+    display: flex !important;
 }
 li{
-    list-style: none;
+    list-style: none !important;
 }
 a{
-    text-decoration: none;
+    text-decoration: none !important;
 }
